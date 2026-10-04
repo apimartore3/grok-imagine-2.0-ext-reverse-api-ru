@@ -2,7 +2,7 @@
 
 > **1K $0.015** · model ID `grok-imagine-2.0-ext` · **реверс-инжиниринг/reverse-engineered** route.
 
-**[Смотреть цены](https://go.apimart.ai/k-0060a4)** · **[Получить API-ключ](https://go.apimart.ai/k-ca07bb)**
+**[Смотреть цены](https://go.apimart.ai/k-44b936)** · **[Получить API-ключ](https://go.apimart.ai/k-ca07bb)**
 
 grok-imagine-2.0-ext-reverse-api-ru — маршрут **реверс-инжиниринг** для Grok Imagine 2.0 Ext: вызываемый ID `grok-imagine-2.0-ext`, работает параллельно официальному маршруту (`grok-imagine-image-2.0`) по более низкой цене.
 
